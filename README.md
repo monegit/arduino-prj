@@ -1,7 +1,7 @@
 # Arduino Basic Project
 
-* [x] [Week1](https://github.com/monegit/arduino-prj/tree/main/report/Week1)
+* [x] [Week1](/report/Week1)
 
-* [x] [Week2](https://github.com/monegit/arduino-prj/tree/main/report/Week2)
+* [x] [Week2](/report/Week2)
 
-* [x] [Week3](https://github.com/monegit/arduino-prj/tree/main/report/Week3)
+* [x] [Week3](/report/Week3)
