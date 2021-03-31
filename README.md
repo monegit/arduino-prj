@@ -6,4 +6,6 @@
 
 * [x] [Week3](/report/Week3)
 
-* [ ] [Week4](/report/Week4)
+* [x] [Week4](/report/Week4)
+
+* [x] [Week5](/report/Week5)
