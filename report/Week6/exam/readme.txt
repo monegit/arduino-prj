@@ -1,0 +1,1 @@
+7-SEGMENT-4DIGIT.fzpz의 fzpz확장자는 fritzing에 없는 부품을 사용하기 위한 부품 컴포넌트 파일이다.
