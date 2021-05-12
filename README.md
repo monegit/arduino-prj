@@ -7,3 +7,5 @@
 * [x] [Week5](/report/Week5)
 * [x] [Week6](/report/Week6)
 * [x] [Week7](/report/Week7)
+* [x] Middle Test
+* [x] [Week9](/report/Week9)
