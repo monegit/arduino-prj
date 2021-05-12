@@ -1,5 +1,6 @@
 # Arduino Basic Project
 
+### 1Segment
 * [x] [Week1](/report/Week1)
 * [x] [Week2](/report/Week2)
 * [x] [Week3](/report/Week3)
