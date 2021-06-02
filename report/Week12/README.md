@@ -1,7 +1,8 @@
 ## Arduino Week12
 
-* [x] Switch
-* [x] Keypad Switch
+* [x] Step Motor
+* [x] Servo Motor
+* [x] IR Remote
 ---
 ### Report 🛠
 
