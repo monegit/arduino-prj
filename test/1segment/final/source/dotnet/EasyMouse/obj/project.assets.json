@@ -438,11 +438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1\\Desktop\\EasyMouse\\EasyMouse\\EasyMouse.csproj",
+      "projectUniqueName": "C:\\Users\\1\\Desktop\\arduino-prj\\test\\1segment\\final\\source\\dotnet\\EasyMouse\\EasyMouse.csproj",
       "projectName": "EasyMouse",
-      "projectPath": "C:\\Users\\1\\Desktop\\EasyMouse\\EasyMouse\\EasyMouse.csproj",
+      "projectPath": "C:\\Users\\1\\Desktop\\arduino-prj\\test\\1segment\\final\\source\\dotnet\\EasyMouse\\EasyMouse.csproj",
       "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1\\Desktop\\EasyMouse\\EasyMouse\\obj\\",
+      "outputPath": "C:\\Users\\1\\Desktop\\arduino-prj\\test\\1segment\\final\\source\\dotnet\\EasyMouse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",

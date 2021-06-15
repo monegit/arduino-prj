@@ -5,6 +5,7 @@ using System.Windows;
 using System.IO.Ports;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
+using System.Windows.Input;
 
 namespace EasyMouse
 {
@@ -12,6 +13,9 @@ namespace EasyMouse
     {
         [DllImport("user32.dll")] static extern int SetCursorPos(int x, int y);
         [DllImport("user32.dll")] static extern bool GetCursorPos(ref MousePoint lpPoint);
+        [DllImport("user32.dll")] static extern void mouse_event(uint dwFlags, uint dx, uint dy, uint dwData, int dwExtraInfo);
+        const uint LBUTTONDOWN = 0x0002;
+        const uint LBUTTONUP = 0x0004;
 
         private SerialPort serial = new();
         int a = 0;
@@ -61,6 +65,9 @@ namespace EasyMouse
 
             GetCursorPos(ref mouse);
             SetCursorPos(mouse.x + ((486 - pointX) / 50), mouse.y + ((494 - pointY) / 50));
+
+            if (isClick) mouse_event(LBUTTONDOWN, 0, 0, 0, 0);
+            else mouse_event(LBUTTONUP, 0, 0, 0, 0);
 
             Debug.WriteLine(isClick);
             Debug.WriteLine(string.Format("x: {0} y:{0} c:{0}", pointX, pointY, isClick));

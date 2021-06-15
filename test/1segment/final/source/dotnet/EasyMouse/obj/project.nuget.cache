@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qI6S+DyeZyche5iQ+cSFnJndvQEc9/5qHO0ZHyqPK0P4YKhas53uURsfOOV9s2l6H7ImlB6zhnTmpetHQpEyNg==",
+  "dgSpecHash": "eASh5F+h7uOMNrat5mKGfc5I/51Cp7UzFhlVA6g3pRmRiu0PS9obR93O4f4Qp3p382udkAT5tazLIx7bOn1jFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\Desktop\\EasyMouse\\EasyMouse\\EasyMouse.csproj",
+  "projectFilePath": "C:\\Users\\1\\Desktop\\arduino-prj\\test\\1segment\\final\\source\\dotnet\\EasyMouse\\EasyMouse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
